@@ -1,0 +1,6 @@
+@charset "UTF-8";
+/* CSS Document */
+#movies img{
+    position: absolute;
+    cursor: pointer;
+}
